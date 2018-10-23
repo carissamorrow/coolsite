@@ -1,0 +1,33 @@
+body {
+  background-color:lightblue
+}
+header {
+  text-align: center; 
+  background-color:lightblue;
+}
+header h1 {
+  font-size: 46px;
+}
+
+#facts-of-a-cool-website {
+  text-align: center;
+  width: 400px;
+}
+
+main {
+  text-align: center;
+  background-color: white;
+}
+aside {
+  position:absolute;
+  top: 120px;
+  right:50px;
+  font-size: x-small;
+}
+
+footer {
+  background-color: yellow;
+  outline-color: yellow;
+  outline-width: thick;
+  text-align: right;
+}
